@@ -13,5 +13,39 @@ header img {
 main {
 	clear: left;
 }
+h2 {
+	font-size: 170;
+	color: #800000;
+	text-indent: 30px;
+}
+h3{
+	font-size: 130%;
+	font-style: italic;
+	text-indent: 30px;
+}
+h1,main{
+	font-size: 150%;
+}
+h2,main{
+	font-size: 130%;
+	color: #800000;
+}
+h3,main{
+	font-size: 105%;
+}
+a:hover{
+	font-style: italic;
+}
+p,footer{
+	text-align: center;
+}
+.shadow{
+	text-shadow: 2px 2px #800000;
+}
+
+/* the styles for the section */
+main {
+	clear: left;
+}
 
 /* the styles for the footer */
